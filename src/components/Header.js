@@ -7,7 +7,7 @@ const Header = () => {
 
   return (
     <div>
-      <span className="header">React Context API</span>
+      <span className="header"></span>
       <ul className="nav">
         <li className="prod">
           <Link to="/">Home Page</Link>
